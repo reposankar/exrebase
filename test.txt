@@ -1,9 +1,5 @@
 one
 two
-<<<<<<< HEAD
 three
 four
 five - main
-=======
-three
->>>>>>> 547cc9c (add three)
