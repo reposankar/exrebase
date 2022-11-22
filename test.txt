@@ -1,5 +1,9 @@
 one
 two
 three
+<<<<<<< HEAD
 four
 five - main
+=======
+four
+>>>>>>> 49a4661 (add four)
